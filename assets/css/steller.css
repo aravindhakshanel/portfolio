@@ -11486,6 +11486,11 @@ pre {
   font-size: 74px;
   font-weight: bold;
 }
+.name{
+  font-size: 5.3vw;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
 
 .header .container .infos p {
   margin-top: -5px;
